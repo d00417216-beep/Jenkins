@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echp "Hello from Git !"
+echo "Hello from Git !"
